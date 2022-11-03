@@ -1,0 +1,233 @@
+https://drive.google.com/file/d/1H1WfP-TAqOnzS4HhQmCXop-mTXxTqiMM/view
+
+
+https://drive.google.com/drive/folders/1tShGhTIbbP5onRBp2izSSjtM2kVnPNO_
+
+
+
+let x = $('.convertedMcqId');
+let time=500;
+for(let i=0; i<300; i++){
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+
+if(x[i].textContent ==000000){continue} 
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+if(x[i].textContent==000000){continue}
+
+
+setTimeout(function(){
+$('.checkedBtn')[i].click();
+}, time);
+time+=500;
+}
+
+
+
+
+Image should be clear.
+
+Image missing
+
+Font Problem
+
+Every trigonometric Term should be without italic and need a one space such that sin x, cos x, tan y etc. which is command is \sin s, \tan y, \lim something, \log .......
+
+In solution, 2nd Line: z_1 . z_2 \bar হবে। Every question, which is related to bar. its converted to minus (-) symbol. Its a fatal of math incase answer will be changed. Please Attention on this problem.
+
+Every prime should be above of the specific symbol.
+
+The latex font is large. Its should be similar to others font.
+
+Every term of  repeat  (পৌনঃপুনিক) symbol are not on its position. It should be clear that this symbol should be above of its value. Its Command may be. 2\overdot that means repeat symbol position on above 2.
+
+Every term of question should be left side(not middle or right sides)
+
+Every vector symbol should be large. I recommend \overrightarrow{} command.
+
+have a problem In question, In vector, A^B are not determined. its command may be, \vec {A} ^{\wedge} \vec {C}
+
+Every limit, have a problem both Question and solution or only question or only solution. But remainder, Small gap between lim and x \to 0 or infty or something.
+I recommend a code: \underset{x\to 0 or \infty or 1 or something}{lim} {Remain part}
+
+have a problem in solution, Every box are not equal. Its should be similar to 1st one.  Its command may be, \fbox{something}
+
+In solution, The equation should be breakdown and  made 3 or 4 parts . Because when its print or manual show in mobile or computer screen its can't seen properly. So its better to measurement by page.
